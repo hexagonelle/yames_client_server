@@ -2064,7 +2064,7 @@ hash = "d5861d025473ddd0a9b5326698b044546072e95028ef7f4ad8f438fad1bb7e09"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "8e19883efe2c9570931c877150318ea39a92007a3d6a1f752d073372ea5ebde7"
+hash = "7edd2b6bd9192f96b1102ea275a84135c06d3cf699ad1649a9ce89edb9c16205"
 
 [[files]]
 file = "config/quark-common.toml.nice"
