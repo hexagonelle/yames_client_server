@@ -30,6 +30,10 @@ ServerEvents.tags('item', event => {
 		plank = String(plank).replace("_stem","_planks")
 		event.add('forge:regular_planks', plank)
 	})
+
+
+	event.add('minecraft:leaves', 'minecraft:nether_wart_block')
+	event.add('minecraft:leaves', 'minecraft:warped_wart_block')
 	
 })
 
